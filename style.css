@@ -1,0 +1,76 @@
+header {
+    background-color: #00a9d4;
+    display: block;
+    color:white;
+    padding:15px;
+    text-align: center;
+    font-size: 36px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-weight: bold;
+}
+
+body {
+    margin:0;
+    padding:0;
+    font-family: "Raleway", sans-serif;
+    background-color: #ccd8dd;
+
+}
+
+.container {
+    margin-left: 12%;
+    margin-right: 12%;
+    background-color: white;
+    height: 100%;
+    margin-top: 10px;
+    color: #464646;
+    font-size: 20px;
+    font-weight: bold;
+    border: 2px inset white;
+    border-radius: 4px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2); 
+    transition: all 0.3s ease; 
+}
+
+
+.container:hover {
+    background-color: #f0f0f0;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3); 
+    transform: scale(1.002); 
+}
+header:hover {
+    background-color: #008bb3;
+    border-bottom: 2px solid #240047;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3); 
+} 
+
+img {
+    height: 480px;
+    width: 820px;
+    display: block;
+    margin:auto;
+    border-radius: 8px;
+    padding-bottom: 5px;
+}
+
+#pagina1 {
+    margin: 40px;
+    padding:15px;
+    text-align: center;
+}
+h2 {
+    margin-left: 5%;
+    display:inline-block;
+    font-size: 40px;
+    font-weight: bolder;
+    color: black;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    background-color: transparent;
+    border-bottom: 3px solid #00a9d4;
+    padding: 10px 20px;
+
+}
+
+p {
+    text-align: left;
+}
