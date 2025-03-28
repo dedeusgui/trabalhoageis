@@ -8,6 +8,7 @@ Este trabalho é uma apresentação detalhada sobre **Metodologias Ágeis** e co
 - **Eduardo Monteiro**
 - **Guilherme Dalosto**
 - **Benjamin Cortes**
+- **Pietro Oliveira**
 
 ## Tópicos do Trabalho
 
